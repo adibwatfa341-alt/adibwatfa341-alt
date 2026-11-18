@@ -1,18 +1,19 @@
-<!-- Profile README · Mohammad Adib Watfa · colors: #07111F bg · #2ED8FF cyan · #8C7CFF violet (matches the portfolio site) -->
+<!-- Profile README · Mohammad Adib Watfa · animated SVGs in /assets are generated, not hand-edited · colors: #06090F bg · #2ED8FF cyan · #8C7CFF violet (matches the portfolio site) -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:0E7490,100:6D5DF5&height=220&section=header&text=Mohammad%20Adib%20Watfa&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Generative%20AI%20%C2%B7%20Vision-Language%20Models%20%C2%B7%20Document%20AI%20%C2%B7%20RAG&descAlignY=58&descSize=18" alt="Mohammad Adib Watfa"/>
-
-<a href="https://github.com/adibwatfa341-alt">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=800&color=2ED8FF&center=true&vCenter=true&width=820&height=60&lines=Document+AI+in+production+at+94%25+extraction+accuracy;16+of+20+defects+found+with+0+false+alarms;SAM+3+%C2%B7+AnomalyCLIP+%C2%B7+Qwen3-VL+on+NVIDIA+DGX;Research+models+turned+into+tested+Python+services" alt="Typing intro"/>
-</a>
+<a href="https://adibwatfa341-alt.github.io/Adib_CV/"><img width="100%" src="assets/header.svg" alt="Mohammad Adib Watfa · AI Engineer · Generative AI, Vision-Language Models, Document AI, RAG · open to remote AI engineering roles"/></a>
 
 <p>
-  <a href="https://www.linkedin.com/in/mohammad-adib-watfa"><img src="https://img.shields.io/badge/LinkedIn-mohammad--adib--watfa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=07111F" alt="LinkedIn"/></a>
-  <a href="mailto:adebwatefa754@gmail.com"><img src="https://img.shields.io/badge/Email-adebwatefa754%40gmail.com-2ED8FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=07111F" alt="Email"/></a>
-  <a href="https://adibwatfa341-alt.github.io/Adib_CV/"><img src="https://img.shields.io/badge/Portfolio-Live_site-8C7CFF?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=07111F" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/mohammad-adib-watfa"><img src="https://img.shields.io/badge/LinkedIn-mohammad--adib--watfa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=06090F" alt="LinkedIn"/></a>
+  <a href="mailto:adebwatefa754@gmail.com"><img src="https://img.shields.io/badge/Email-adebwatefa754%40gmail.com-2ED8FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=06090F" alt="Email"/></a>
+  <a href="https://adibwatfa341-alt.github.io/Adib_CV/"><img src="https://img.shields.io/badge/Portfolio-Live_site-8C7CFF?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=06090F" alt="Portfolio"/></a>
+  <a href="https://adibwatfa341-alt.github.io/Adib_CV/Mohammad-Adib-Watfa-CV.pdf"><img src="https://img.shields.io/badge/CV-Download_PDF-34D399?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=06090F" alt="Download CV"/></a>
 </p>
+
+<img width="100%" src="assets/terminal.svg" alt="$ whoami → AI Engineer @ Metamas · $ cat focus.txt → Generative AI · VLMs · Document AI · RAG · 780+ tests passing · open to remote roles, can start immediately"/>
+
+<img width="100%" src="assets/metrics.svg" alt="94% data-extraction accuracy in production · ~70 s per 14-page order · 16 of 20 defects found with 0 of 30 false alarms · 780+ automated tests"/>
 
 </div>
 
@@ -37,28 +38,39 @@ I turn **research models into tested Python services** that keep working in prod
 - 🏭 **Now:** AI Engineer at **Metamas**. Founder or lead of 3 AI services and an assessment platform, including a document-extraction service **in production for Saudi Electricity Company (SEC)**.
 - 📏 **How I ship:** I measure model behaviour on labelled test sets before shipping; 780+ automated tests cover my services.
 - 🧱 **Background:** Python backend engineering, so I treat an AI feature as a full product: async workers, validated outputs, retries, monitoring, tests and deployment.
-- 🤖 **How I work:** AI-native. Claude Code, Claude Cowork, custom agent skills and MCP connectors handle exploration and boilerplate; design, review and the quality bar stay mine.
 - 🎤 Speaker at Metamas “Build Without Limits”, University of Aleppo (Oct 2026): turning a research paper into a product.
 - 🌍 Aleppo, Syria (UTC+3) · Arabic (native), English (upper-intermediate) · **open to remote roles**
 
-### 📊 Impact in numbers
+<table>
+<tr>
+<td width="46%"><a href="https://adibwatfa341-alt.github.io/Adib_CV/"><img src="https://adibwatfa341-alt.github.io/Adib_CV/og.jpg" alt="Portfolio preview"/></a></td>
+<td>
 
-<div align="center">
+### 🌐 Live portfolio
 
-| <h2>94%</h2> | <h2>~70 s</h2> | <h2>16 / 20</h2> | <h2>1,950+</h2> | <h2>200</h2> |
-|:---:|:---:|:---:|:---:|:---:|
-| data-extraction accuracy<br/><sub>in production</sub> | per 14-page, 52-field order<br/><sub>vs an estimated 15+ min by hand</sub> | defects found<br/><sub>with 0 / 30 false alarms</sub> | VLM-judge stability runs<br/><sub>163 tools × 12 variants</sub> | students screened<br/><sub>93% less manual grading</sub> |
+**[adibwatfa341-alt.github.io/Adib_CV](https://adibwatfa341-alt.github.io/Adib_CV/)**
 
-</div>
+The interactive version of this page:
+
+- 🧭 animated diagrams of the 4 systems; click any part to read what it does
+- 🎚️ a calibration lab you can drag yourself
+- 🧠 my second brain as a live, draggable graph
+- 📄 one-page CV to download
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🚀 Featured work
 
-<sub>Built at Metamas. The code is private; the descriptions and numbers are mine. Click a project to expand it.</sub>
+<sub>Built at Metamas. The code is private; the descriptions and numbers are mine. The diagrams are live: data moves through them. Expand a project for details.</sub>
 
-<details open>
-<summary><b>📄 Enterprise Document Intelligence & Data Extraction</b> · founder of the service</summary>
+<img width="100%" src="assets/docai-flow.svg" alt="Document AI pipeline: Client ERP → FastAPI → Redis → Celery worker → PyMuPDF → OpenCV router (0 LLM calls) → Gemini VLM (JSON schema) → normalize + rules → typed JSON back to the ERP"/>
+
+<details>
+<summary><b>📄 Enterprise Document Intelligence & Data Extraction</b> · founder of the service · <b>in production</b></summary>
 <br/>
 
 Turns scanned work-order PDFs of up to **72 pages** into typed JSON inside the client's ERP. I founded and built version 1; it grew into a 4-engineer platform **in production** at **94% data-extraction accuracy**.
@@ -71,21 +83,9 @@ Turns scanned work-order PDFs of up to **72 pages** into typed JSON inside the c
 - 🔁 Exponential-backoff retries, per-page progress streaming and Flower monitoring
 - 🧾 Constrained **JSON-schema** outputs, deterministic normalization and cross-field validation rules
 
-```mermaid
-flowchart LR
-    C["Client"] -->|"PDF + type"| A["FastAPI"]
-    A -->|enqueue| R[("Redis")]
-    R --> W["Celery worker"]
-    W --> P["Render pages · PyMuPDF"]
-    P --> O["Classify pages · OpenCV<br/>0 LLM calls"]
-    O --> L["Extract fields · Vision LLM<br/>JSON schema"]
-    L --> N["Normalize + cross-field rules"]
-    N --> S[("Structured result")]
-    W -.->|progress per page| R
-    C -->|poll status| A
-```
-
 </details>
+
+<img width="100%" src="assets/inspection-flow.svg" alt="Tool inspection pipeline: field photo → FastAPI + Celery → SAM 3 → AnomalyCLIP → calibration → shape checks → Qwen3-VL-8B judge → verdict; one worksite photo, 26 tools: 12 fit, 6 inspect, 4 remove, 4 retake"/>
 
 <details>
 <summary><b>🔍 Zero-Shot Tool Inspection & Anomaly Detection</b> · AnomalyCLIP + SAM 3 + Qwen3-VL on NVIDIA DGX</summary>
@@ -101,70 +101,11 @@ Turned the **AnomalyCLIP** research model (ICLR 2024) into a FastAPI service in 
 - ⚖️ Local **Qwen3-VL-8B** judge with rules per tool type, checked on a supervisor-labelled exam set and stability-tested over **1,950+ runs**
 - 🔌 React/TypeScript UI in Arabic and English, public `/api/v1` with API keys for the Odoo team, Docker Compose on **NVIDIA DGX Spark**
 
-</details>
-
-<details>
-<summary><b>📝 Talent Assessment Platform</b> · used to screen 200 university students</summary>
-<br/>
-
-Arabic (RTL) online assessment, scored automatically across 5 traits.
-
-`FastAPI` `React` `SQLite` `Docker` `Nginx`
-
-- ✅ Auto-scores **28 of 30** questions across 5 traits (93% less manual grading)
-- ⏱️ Server-signed 30-minute timer, answer shuffling and duplicate checks
-- 📤 Excel export in the original scoring template, plus automatic backups
+<img width="100%" src="https://adibwatfa341-alt.github.io/Adib_CV/assets/anomaly-run.jpg" alt="The live service on a worksite photo: every tool segmented, heat-mapped and scored"/>
 
 </details>
 
-<details>
-<summary><b>🧾 Multimodal AI PDF-to-Markdown Service</b> · Gemma · Arabic & English</summary>
-<br/>
-
-Converts PDF pages into clean Markdown with a multimodal LLM, through background jobs.
-
-`FastAPI` `Celery` `Redis` `PyMuPDF` `Gemma` `Google GenAI`
-
-- 🚦 Redis rate limiter (atomic Lua script) that keeps **every worker** under a 10 requests/minute quota
-- 🔁 Exponential-backoff retries with jitter, per-page progress and task-status APIs
-- 🔌 Pluggable LLM provider interface and 20 tests
-
-</details>
-
-<details>
-<summary><b>🔎 RAG Application</b> · personal project · <a href="https://github.com/adibwatfa341-alt/mini-rag">mini-rag</a></summary>
-<br/>
-
-End-to-end retrieval-augmented generation with local models.
-
-`FastAPI` `Qdrant` `PGVector` `PostgreSQL` `SQLAlchemy` `Alembic` `Ollama`
-
-- 📥 Document ingestion, chunking and embeddings
-- 🧲 Semantic retrieval with **Qdrant**
-- 💬 Grounded answers with local models through **Ollama**
-
-</details>
-
-<details>
-<summary><b>🤖 AI-Native Development</b> · how I ship</summary>
-<br/>
-
-`Claude Code` `Agent Skills & Plugins` `MCP Connectors` `Obsidian second brain` `Graphify`
-
-| Stage | What AI agents do | What stays mine |
-|---|---|---|
-| Explore | Read the codebase, trace data flow, map impact | Decide the design and the trade-offs |
-| Build | Scaffold routes, models, tests and docs | Domain logic and boundaries |
-| Review | Propose fixes and refactors | Review every diff |
-| Test | Generate test cases and diagnostic scripts | Decide what "correct" means |
-
-</details>
-
----
-
-### 🔬 Engineering case studies
-
-<sub>Real problems from my work, described without confidential details.</sub>
+<img width="100%" src="assets/calibration.svg" alt="Calibration case study: k=1 finds 19 of 20 defects with 8 false alarms; k=2 (shipped) finds 16 of 20 with 0; k=3 finds 3 of 20 with 0"/>
 
 <details>
 <summary><b>🎚️ Why a fixed 0.5 threshold failed, and what replaced it</b> · anomaly detection · statistics</summary>
@@ -185,6 +126,73 @@ End-to-end retrieval-augmented generation with local models.
 The textbook k = 3 looked safe but caught only 15% of defects; k = 2 caught 80% with no false alarms.
 
 </details>
+
+<details>
+<summary><b>📝 Talent Assessment Platform</b> · used to screen 200 university students</summary>
+<br/>
+
+Arabic (RTL) online assessment, scored automatically across 5 traits.
+
+`FastAPI` `React` `SQLite` `Docker` `Nginx`
+
+- ✅ Auto-scores **28 of 30** questions across 5 traits (93% less manual grading)
+- ⏱️ Server-signed 30-minute timer, answer shuffling and duplicate checks
+- 📤 Excel export in the original scoring template, plus automatic backups
+
+</details>
+
+<details>
+<summary><b>🔎 RAG Application</b> · personal project · <a href="https://github.com/adibwatfa341-alt/mini-rag">mini-rag</a></summary>
+<br/>
+
+End-to-end retrieval-augmented generation with local models.
+
+`FastAPI` `Qdrant` `PGVector` `PostgreSQL` `SQLAlchemy` `Alembic` `Ollama`
+
+- 📥 Document ingestion, chunking and embeddings
+- 🧲 Semantic retrieval with **Qdrant**
+- 💬 Grounded answers with local models through **Ollama**
+
+</details>
+
+<details>
+<summary><b>🧾 Multimodal AI PDF-to-Markdown Service</b> · Gemma · Arabic & English</summary>
+<br/>
+
+Converts PDF pages into clean Markdown with a multimodal LLM, through background jobs.
+
+`FastAPI` `Celery` `Redis` `PyMuPDF` `Gemma` `Google GenAI`
+
+- 🚦 Redis rate limiter (atomic Lua script) that keeps **every worker** under a 10 requests/minute quota
+- 🔁 Exponential-backoff retries with jitter, per-page progress and task-status APIs
+- 🔌 Pluggable LLM provider interface and 20 tests
+
+</details>
+
+---
+
+### 🤖 How I build with AI
+
+<img width="100%" src="assets/workflow.svg" alt="Workflow: Spec → Context (Obsidian second brain) → Map (Graphify) → Build (Claude Code + my skills) → Verify (pytest + labelled sets)"/>
+
+<details>
+<summary><b>What the agents do, and what stays mine</b></summary>
+<br/>
+
+`Claude Code` `Agent Skills & Plugins` `MCP Connectors` `Obsidian second brain` `Graphify`
+
+| Stage | What AI agents do | What stays mine |
+|---|---|---|
+| Explore | Read the codebase, trace data flow, map impact | Decide the design and the trade-offs |
+| Build | Scaffold routes, models, tests and docs | Domain logic and boundaries |
+| Review | Propose fixes and refactors | Review every diff |
+| Test | Generate test cases and diagnostic scripts | Decide what "correct" means |
+
+</details>
+
+---
+
+### 🔬 More engineering notes
 
 <details>
 <summary><b>🚦 One rate limit, many workers</b> · Redis · Lua · Celery</summary>
@@ -212,7 +220,7 @@ The textbook k = 3 looked safe but caught only 15% of defects; k = 2 caught 80% 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,opencv,redis,postgres,mongodb,docker,nginx,django,react,ts,git,githubactions&theme=dark&perline=14" alt="Tech icons"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,opencv,redis,postgres,mongodb,docker,nginx,django,react,ts,linux,git,githubactions&theme=dark&perline=15" alt="Python, FastAPI, PyTorch, OpenCV, Redis, PostgreSQL, MongoDB, Docker, Nginx, Django, React, TypeScript, Linux, Git, GitHub Actions"/>
 
 </div>
 
@@ -229,13 +237,13 @@ The textbook k = 3 looked safe but caught only 15% of defects; k = 2 caught 80% 
 | **Async & Data** | Celery, Redis, Flower, PostgreSQL, PGVector, Qdrant, MongoDB, SQLite |
 | **DevOps** | Docker, Docker Compose, Nginx, Linux, GitLab, GitHub Actions, NVIDIA DGX Spark |
 | **Testing** | pytest, unit and API tests, test doubles |
-| **AI-native tools** | Claude Code, Claude Cowork, agent skills & plugins, MCP connectors, n8n |
+| **AI-native tools** | Claude Code, agent skills & plugins, MCP connectors, Obsidian, Graphify, n8n |
 
 </details>
 
 ---
 
-### 🎓 Education
+### 🎓 Education & speaking
 
 <div align="center">
 
@@ -267,12 +275,12 @@ class Adib(AIEngineer):
 
 ### 🤝 Let's connect
 
-Open to **remote AI engineering roles**: Generative AI, vision-language models, Document AI and RAG
+Open to **remote AI engineering roles**: Generative AI, vision-language models, Document AI and RAG · can start immediately
 
 <a href="https://www.linkedin.com/in/mohammad-adib-watfa"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:adebwatefa754@gmail.com"><img src="https://img.shields.io/badge/Send_an_email-0E7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://adibwatfa341-alt.github.io/Adib_CV/"><img src="https://img.shields.io/badge/Visit_portfolio-6D5DF5?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6D5DF5,55:0E7490,100:07111F&height=120&section=footer" alt=""/>
+<img width="100%" src="assets/footer.svg" alt=""/>
 
 </div>

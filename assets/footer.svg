@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="120" viewBox="0 0 1000 120" role="img" aria-label="Thanks for stopping by"><title>Thanks for stopping by</title><defs>
+<linearGradient id="grad" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2ed8ff"/><stop offset="1" stop-color="#8c7cff"/></linearGradient>
+<radialGradient id="glowC" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#2ed8ff" stop-opacity=".22"/><stop offset="1" stop-color="#2ed8ff" stop-opacity="0"/></radialGradient>
+<radialGradient id="glowV" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#8c7cff" stop-opacity=".26"/><stop offset="1" stop-color="#8c7cff" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="rgba(255,255,255,0.06)"/></pattern>
+</defs><style>
+.w1{animation:mv1 9s linear infinite}.w2{animation:mv2 13s linear infinite}
+@keyframes mv1{from{transform:translateX(0)}to{transform:translateX(-400px)}}
+@keyframes mv2{from{transform:translateX(-520px)}to{transform:translateX(0)}}
+.t{font:600 15px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif;fill:#94a3b8;text-anchor:middle}
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style><path d="M0,70 q50.0,-14 100.0,0 q50.0,14 100.0,0 q50.0,-14 100.0,0 q50.0,14 100.0,0 q50.0,-14 100.0,0 q50.0,14 100.0,0 q50.0,-14 100.0,0 q50.0,14 100.0,0 q50.0,-14 100.0,0 q50.0,14 100.0,0 q50.0,-14 100.0,0 q50.0,14 100.0,0 q50.0,-14 100.0,0 q50.0,14 100.0,0 q50.0,-14 100.0,0 q50.0,14 100.0,0 q50.0,-14 100.0,0 q50.0,14 100.0,0 q50.0,-14 100.0,0 q50.0,14 100.0,0 q50.0,-14 100.0,0 q50.0,14 100.0,0 q50.0,-14 100.0,0 q50.0,14 100.0,0 V120 H0 Z" fill="#2ed8ff" fill-opacity=".10" class="w1"/><path d="M0,82 q65.0,-10 130.0,0 q65.0,10 130.0,0 q65.0,-10 130.0,0 q65.0,10 130.0,0 q65.0,-10 130.0,0 q65.0,10 130.0,0 q65.0,-10 130.0,0 q65.0,10 130.0,0 q65.0,-10 130.0,0 q65.0,10 130.0,0 q65.0,-10 130.0,0 q65.0,10 130.0,0 q65.0,-10 130.0,0 q65.0,10 130.0,0 q65.0,-10 130.0,0 q65.0,10 130.0,0 q65.0,-10 130.0,0 q65.0,10 130.0,0 q65.0,-10 130.0,0 V120 H0 Z" fill="#8c7cff" fill-opacity=".14" class="w2"/><text x="500.0" y="40" class="t">Thanks for stopping by · let’s build AI that ships</text></svg>
